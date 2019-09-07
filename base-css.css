@@ -32,9 +32,13 @@ body {
 
 .gridCell p {
     text-align: center;
+    height: 25vw;
+    max-height: 28vh;
+    width: 25vw;
+    max-width: 28vh;
+    font-size: 100%;
     margin: 0;
-    line-height: 20vw;
-    display: none;
+    line-height: 25vw;
 }
 
 .X {
